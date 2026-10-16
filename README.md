@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1065,35:6D28D9,70:8B5CF6,100:C4B5FD&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20APPLICATION%20DEVELOPER%20%E2%80%A2%20LLM%20APPLICATION%20DEVELOPER&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0618,35:1E0A3C,70:3B0764,100:6D28D9&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20APPLICATION%20DEVELOPER%20%E2%80%A2%20LLM%20APPLICATION%20DEVELOPER&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
 
 <br>
 
@@ -12,7 +12,7 @@
 
 <a href="https://github.com/zain-dev-it-pr"><img src="https://img.shields.io/badge/GitHub-zain--dev--it--pr-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/mmzainalabideen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<img src="https://komarev.com/ghpvc/?username=zain-dev-it-pr&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zain-dev-it-pr&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -24,11 +24,11 @@ I'm **Zain Al Abideen**, an AI and application developer interested in building 
 
 My foundation is **Flutter and Dart**. I'm growing toward AI application engineering by learning how frontend experiences connect to APIs, databases, backend services, and language models.
 
-- 📱 Building cross-platform apps with Flutter and Dart
-- 🤖 Exploring LLM-powered features, AI tools, and agentic applications
-- 🌐 Expanding into web and backend engineering
-- 🧩 Interested in clean interfaces, useful products, and practical problem-solving
-- 📚 Currently strengthening REST APIs, Node.js, databases, authentication, and deployment
+- Building cross-platform apps with Flutter and Dart
+- Exploring LLM-powered features, AI tools, and agentic applications
+- Expanding into web and backend engineering
+- Interested in clean interfaces, useful products, and practical problem-solving
+- Currently strengthening REST APIs, Node.js, databases, authentication, and deployment
 
 > **My approach:** learn by building, improve through feedback, and ship work that solves a real problem.
 
@@ -205,6 +205,6 @@ A web-focused project in the Hushh ecosystem.
 <a href="https://github.com/zain-dev-it-pr?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 <a href="https://www.linkedin.com/in/mmzainalabideen/"><img src="https://img.shields.io/badge/Let's-connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:C4B5FD,45:8B5CF6,75:6D28D9,100:2E1065" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6D28D9,45:3B0764,75:1E0A3C,100:0B0618" width="100%" alt="" />
 
 </div>
