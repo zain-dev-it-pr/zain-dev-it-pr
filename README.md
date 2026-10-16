@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:312E81,100:0891B2&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20APPLICATIONS%20%E2%80%A2%20FLUTTER%20%E2%80%A2%20FULL-STACK%20LEARNING&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:312E81,100:0891B2&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20APPLICATION%20DEVELOPER%20%E2%80%A2%20LLM%20APPLICATION%20DEVELOPER&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+useful+things+with+code;Flutter+%7C+Dart+%7C+AI+%2F+LLMs;Exploring+backend+engineering+and+agents;From+ideas+to+working+products" alt="Animated developer tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=AI+Developer;Application+Developer;LLM+Application+Developer;Flutter+%7C+Dart+%7C+AI+%2F+LLMs;Building+intelligent+applications" alt="Animated developer tagline" />
 </a>
 
 <br>
