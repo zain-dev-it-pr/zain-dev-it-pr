@@ -64,7 +64,7 @@ My foundation is **Flutter and Dart**. I'm growing toward AI application enginee
 
 **Data & developer tools**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,vscode,postman,docker&theme=dark" alt="Databases and developer tools" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,vscode,androidstudio,postman,docker&theme=dark" alt="Databases and developer tools" />
 
 </div>
 
