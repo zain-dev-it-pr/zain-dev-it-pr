@@ -1,311 +1,210 @@
 <div align="center">
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                    ANIMATED HERO HEADER                       -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09090B,45:4C1D95,100:06B6D4&text=ZAIN%20AL%20ABIDEEN&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20FLUTTER%20DEVELOPER%20%E2%80%A2%20AI%20TOOLS%20EXPERT&descAlignY=59&descSize=18&animation=twinkling"/>
-<br>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Developer coding animation"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Intelligent+Applications;Flutter+%7C+Dart+%7C+AI+%7C+LLMs;Mobile+%2B+Web+Developer;Turning+Ideas+Into+Real+Products;Learn+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Improve"/>
-<a href="https://github.com/zain-dev-it-pr">
-<img src="https://komarev.com/ghpvc/?username=zain-dev-it-pr&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
-</a>
-<a href="https://github.com/zain-dev-it-pr?tab=followers">
-<img src="https://img.shields.io/github/followers/zain-dev-it-pr?label=FOLLOWERS&style=for-the-badge&color=06B6D4"/>
-</a>
-<a href="https://github.com/zain-dev-it-pr?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-9-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-</div>
 
-⸻
-
-👨‍💻 Who Am I?
-
-class ZainAlAbideen {
-  final String role = "AI & Application Developer";
-  final List<String> specialties = [
-    "Flutter Development",
-    "Dart",
-    "Artificial Intelligence",
-    "LLM Applications",
-    "AI Tools",
-    "UI/UX",
-    "Web Development"
-  ];
-  final String mindset =
-      "Build useful things. Learn continuously. Ship better.";
-  String mission() {
-    return "Turning ideas into intelligent applications.";
-  }
-}
-
-I’m Zain Al Abideen, an AI Developer, Flutter Developer and AI Tools enthusiast focused on building intelligent, user-friendly applications.
-
-My primary development stack is Flutter + Dart, while I’m expanding deeper into AI/LLMs, backend development and modern web technologies.
-
-🚀 Currently Focused On
-
-* 📱 Flutter & cross-platform application development
-* 🤖 AI-powered applications
-* 🧠 LLM integration
-* 🌐 Web development
-* 🔌 REST API & backend integration
-* 🗄️ Databases
-* 🔐 Application security
-* ⚙️ Git, GitHub & collaborative development
-
-⸻
-
-🧠 My Development Universe
-
-<div align="center">
-                    ┌──────────────────────┐
-                    │    ARTIFICIAL        │
-                    │   INTELLIGENCE 🤖    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-             ┌─────────────────────────────────┐
-             │      INTELLIGENT APPLICATIONS  │
-             └───────────────┬─────────────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              ▼                             ▼
-       ┌──────────────┐              ┌──────────────┐
-       │   FLUTTER    │              │     WEB      │
-       │   📱         │              │     🌐       │
-       └──────┬───────┘              └──────┬───────┘
-              │                             │
-              └──────────────┬──────────────┘
-                             ▼
-                     ┌───────────────┐
-                     │   BACKEND     │
-                     │   DATABASE    │
-                     │   APIs        │
-                     └───────┬───────┘
-                             ▼
-                      🚀 REAL PRODUCTS
-</div>
-
-⸻
-
-🛠️ Tech Stack
-
-<div align="center">
-
-📱 Mobile Development
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark"/>
-
-🤖 AI & Data
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
-
-🌐 Web
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express&theme=dark"/>
-
-🗄️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark"/>
-
-⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&theme=dark"/>
-</div>
-
-⸻
-
-🚀 Featured Projects
-
-🤖 KATLOGIC
-
-<a href="https://github.com/zain-dev-it-pr/katlogic">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-KATLOGIC-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-
-AI Chat & Voice Bot Application
-
-A conversational AI application built with Flutter, designed around an intelligent and modern chat experience.
-
-✨ Features
-
-* 🤖 AI conversations
-* 💬 Chat history
-* 🎙️ Voice interaction
-* 🔊 Text-to-speech
-* 🧠 LLM integration
-* 🎨 Animated interface
-* ⚡ Responsive Flutter UI
-
-Stack: Flutter Dart AI LLM Gemini STT TTS
-
-⸻
-
-🛒 Ritnow
-
-<a href="https://github.com/zain-dev-it-pr/ritnow">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-RITNOW-06B6D4?style=for-the-badge&logo=github"/>
-</a>
-
-Quick-Commerce Flutter Application
-
-A quick-commerce application concept designed around local shopping and fast delivery experiences.
-
-✨ Features
-
-* 🛒 Grocery
-* 📚 Stationery
-* 🍿 Snacks
-* 👕 Clothing
-* 📍 Location cards
-* 🛍️ Cart management
-* 🧭 Bottom navigation
-
-Stack: Flutter Dart UI/UX
-
-⸻
-
-🧠 Hush
-
-<a href="https://github.com/zain-dev-it-pr/hush">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-HUSH-4C1D95?style=for-the-badge&logo=github"/>
-</a>
-
-Flutter Application — Hackathon Project
-
-A Flutter application developed for the Hush hackathon, exploring privacy-focused and AI-powered experiences.
-
-Stack: Flutter Dart AI
-
-⸻
-
-🔬 Hushh Research
-
-<a href="https://github.com/zain-dev-it-pr/hushh-research">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-HUSHH%20RESEARCH-06B6D4?style=for-the-badge&logo=github"/>
-</a>
-
-Research and product workspace exploring personal AI experiences, consent flows and applied agent systems.
-
-Stack: TypeScript AI Agents
-
-⸻
-
-🌐 Hushh Tech Website
-
-<a href="https://github.com/zain-dev-it-pr/hushh_Tech_website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-HUSHH%20TECH-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-
-Web application / product wrapper involving API integrations, Supabase workflows, testing, CI and repository governance.
-
-Stack: TypeScript Supabase API CI/CD
-
-⸻
-
-📊 GitHub Analytics
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zain-dev-it-pr&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18&include_all_commits=true&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-dev-it-pr&layout=compact&theme=tokyonight&hide_border=true&border_radius=18&langs_count=8"/>
-<img src="https://streak-stats.demolab.com/?user=zain-dev-it-pr&theme=tokyonight&hide_border=true&border_radius=18"/>
-</div>
-
-⸻
-
-🧊 3D Contribution Universe
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-</div>
-
-⸻
-
-🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/zain-dev-it-pr/zain-dev-it-pr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-</div>
-
-⸻
-
-🎯 2026 → 2027 Mission
-
-<div align="center">
-
-Flutter Developer
-
-↓
-
-Full-Stack Application Developer
-
-↓
-
-AI Application Engineer
-
-↓
-
-🚀 Build Production-Ready Intelligent Products
-
-</div>
-
-⸻
-
-🏆 Achievements
-
-<div align="center">
-
-🏆 Achievement	🎯 Category
-🥇 1st Prize	UI/UX Design
-🥉 3rd Prize	Webathon
-🏆 Competition Winner	Technical Events
-📱 Multiple Applications	Flutter Development
-🤖 AI Applications	LLM / AI
-
-</div>
-
-⸻
-
-💡 Developer Philosophy
-
-<div align="center">
-
-“Don’t just learn technology. Build with it.”
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:312E81,100:0891B2&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20APPLICATIONS%20%E2%80%A2%20FLUTTER%20%E2%80%A2%20FULL-STACK%20LEARNING&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
 
 <br>
-THINK
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-SHIP 🚀
-</div>
 
-⸻
-
-🌐 Let’s Connect
-
-<div align="center">
-<a href="https://github.com/zain-dev-it-pr">
-<img src="https://img.shields.io/badge/GitHub-zain--dev--it--pr-181717?style=for-the-badge&logo=github"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+useful+things+with+code;Flutter+%7C+Dart+%7C+AI+%2F+LLMs;Exploring+backend+engineering+and+agents;From+ideas+to+working+products" alt="Animated developer tagline" />
 </a>
-<a href="https://www.linkedin.com/in/mmzainalabideen/">
-<img src="https://img.shields.io/badge/LinkedIn-Zain%20Al%20Abideen-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-</div>
-<br>
-<div align="center">
-
-⚡ Building the future, one application at a time.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:4C1D95,100:09090B&animation=twinkling"/>
+
+<a href="https://github.com/zain-dev-it-pr"><img src="https://img.shields.io/badge/GitHub-zain--dev--it--pr-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://www.linkedin.com/in/mmzainalabideen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<img src="https://komarev.com/ghpvc/?username=zain-dev-it-pr&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+## About
+
+I'm **Zain Al Abideen**, an AI and application developer interested in building practical products across **mobile development, AI-powered experiences, and the web**.
+
+My foundation is **Flutter and Dart**. I'm growing toward AI application engineering by learning how frontend experiences connect to APIs, databases, backend services, and language models.
+
+- 📱 Building cross-platform apps with Flutter and Dart
+- 🤖 Exploring LLM-powered features, AI tools, and agentic applications
+- 🌐 Expanding into web and backend engineering
+- 🧩 Interested in clean interfaces, useful products, and practical problem-solving
+- 📚 Currently strengthening REST APIs, Node.js, databases, authentication, and deployment
+
+> **My approach:** learn by building, improve through feedback, and ship work that solves a real problem.
+
+## Current learning path
+
+<div align="center">
+
+**Flutter & Dart** → **JavaScript / TypeScript** → **Node.js & REST APIs** → **SQL & PostgreSQL** → **Authentication & Security** → **Deployment & CI/CD** → **AI / LLM Integrations**
+
+</div>
+
+## Tech stack
+
+<div align="center">
+
+**Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio&theme=dark" alt="Flutter, Dart, Firebase and Android Studio" />
+
+<br><br>
+
+**AI & programming**
+<br>
+<img src="https://skillicons.dev/icons?i=python,java,ts,js&theme=dark" alt="Python, Java, TypeScript and JavaScript" />
+
+<br><br>
+
+**Web & backend**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" alt="HTML, CSS, React, Node.js and Express" />
+
+<br><br>
+
+**Data & developer tools**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,vscode,postman,docker&theme=dark" alt="Databases and developer tools" />
+
+</div>
+
+**AI ecosystem:** Gemini API · LangChain · Retrieval-Augmented Generation (RAG) · Prompt Engineering · Vector Databases
+
+**AI-assisted development:** GitHub Copilot · Cursor · Claude Code · Codex · Gemini Code Assist
+
+---
+
+## Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 KATLOGIC
+**Conversational AI application**
+
+A Flutter-focused AI chat and voice experience.
+
+- Conversational interface
+- Exploring LLM and Gemini API integration
+- Voice input/output concepts
+- Focus on a clean, responsive mobile experience
+
+**Focus:** Flutter · Dart · AI / LLMs
+
+[Explore repository →](https://github.com/zain-dev-it-pr/katlogic)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ Ritnow
+**Quick-commerce application**
+
+A mobile shopping concept centred on convenient local discovery and shopping flows.
+
+- Product and category experiences
+- Shopping-oriented UI
+- Mobile-first navigation and user flows
+
+**Focus:** Flutter · Dart · UI/UX
+
+[Explore repository →](https://github.com/zain-dev-it-pr/ritnow)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Hush
+**Application project**
+
+A project in the Hush ecosystem, reflecting my interest in building useful application experiences.
+
+**Focus:** Application development
+
+[Explore repository →](https://github.com/zain-dev-it-pr/hush)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Hushh Research
+**AI and research workspace**
+
+Exploring AI-related product and research ideas.
+
+**Focus:** TypeScript · AI concepts
+
+[Explore repository →](https://github.com/zain-dev-it-pr/hushh-research)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 Hushh Tech Website
+**Web project**
+
+A web-focused project in the Hushh ecosystem.
+
+**Focus:** TypeScript · Web development
+
+[Explore repository →](https://github.com/zain-dev-it-pr/hushh_Tech_website)
+
+</td>
+</tr>
+</table>
+
+[**Browse all my repositories →**](https://github.com/zain-dev-it-pr?tab=repositories)
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zain-dev-it-pr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-dev-it-pr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=zain-dev-it-pr&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## Contribution visuals
+
+<div align="center">
+
+<!-- These images appear after the corresponding GitHub Actions workflows generate them. -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph" />
+
+<img src="https://raw.githubusercontent.com/zain-dev-it-pr/zain-dev-it-pr/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+## Beyond the code
+
+- 🏆 Recognised in technical competitions, including UI/UX design and a Webathon
+- 🧑‍🏫 Mentored students in Dart, Flutter, and AI-assisted development
+- 🤝 Interested in open-source collaboration and learning from developer communities
+
+## What's next?
+
+- [ ] Build and deploy a secure REST API
+- [ ] Connect a Flutter app to a backend and PostgreSQL database
+- [ ] Strengthen authentication, validation, and API security
+- [ ] Build an AI application with a backend-managed LLM integration
+- [ ] Practise deployment, Docker, and CI/CD workflows
+
+<div align="center">
+
+### “Build with curiosity. Engineer with purpose.”
+
+<a href="https://github.com/zain-dev-it-pr?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+<a href="https://www.linkedin.com/in/mmzainalabideen/"><img src="https://img.shields.io/badge/Let's-connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891B2,55:312E81,100:0B1020" width="100%" alt="" />
+
 </div>
