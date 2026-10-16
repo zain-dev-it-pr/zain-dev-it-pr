@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="./zain-code-pattern-header.gif" width="100%" alt="Zain Al Abideen — Animated Code Pattern Portrait" />
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0618,35:1E0A3C,70:3B0764,100:6D28D9&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20APPLICATION%20DEVELOPER%20%E2%80%A2%20LLM%20APPLICATION%20DEVELOPER&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
 
 <br>
