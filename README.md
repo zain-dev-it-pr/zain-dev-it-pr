@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:312E81,100:0891B2&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20APPLICATION%20DEVELOPER%20%E2%80%A2%20LLM%20APPLICATION%20DEVELOPER&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1065,35:6D28D9,70:8B5CF6,100:C4B5FD&text=ZAIN%20AL%20ABIDEEN&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=AI%20DEVELOPER%20%E2%80%A2%20APPLICATION%20DEVELOPER%20%E2%80%A2%20LLM%20APPLICATION%20DEVELOPER&descAlignY=59&descSize=16&animation=twinkling" width="100%" alt="Animated Zain Al Abideen profile banner" />
 
 <br>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=760&lines=AI+Developer;Application+Developer;LLM+Application+Developer;Flutter+%7C+Dart+%7C+AI+%2F+LLMs;Building+intelligent+applications" alt="Animated developer tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=C4B5FD&center=true&vCenter=true&width=760&lines=AI+Developer;Application+Developer;LLM+Application+Developer;Flutter+%7C+Dart+%7C+AI+%2F+LLMs;Building+intelligent+applications" alt="Animated developer tagline" />
 </a>
 
 <br>
 
 <a href="https://github.com/zain-dev-it-pr"><img src="https://img.shields.io/badge/GitHub-zain--dev--it--pr-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/mmzainalabideen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<img src="https://komarev.com/ghpvc/?username=zain-dev-it-pr&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=zain-dev-it-pr&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -205,6 +205,6 @@ A web-focused project in the Hushh ecosystem.
 <a href="https://github.com/zain-dev-it-pr?tab=repositories"><img src="https://img.shields.io/badge/Explore-my%20projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 <a href="https://www.linkedin.com/in/mmzainalabideen/"><img src="https://img.shields.io/badge/Let's-connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0891B2,55:312E81,100:0B1020" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:C4B5FD,45:8B5CF6,75:6D28D9,100:2E1065" width="100%" alt="" />
 
 </div>
